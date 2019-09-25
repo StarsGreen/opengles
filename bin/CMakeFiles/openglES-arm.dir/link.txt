@@ -1,0 +1,1 @@
+/usr/local/gcc-arm-linux-gnueabihf/bin/arm-linux-gnueabihf-gcc -I /usr/include -L /home/work/sourcecode/openglES/camera/lib  -rdynamic CMakeFiles/openglES-arm.dir/src/camera.c.o CMakeFiles/openglES-arm.dir/src/draw.c.o CMakeFiles/openglES-arm.dir/src/main.c.o CMakeFiles/openglES-arm.dir/src/window.c.o  -o openglES-arm -lEGL -lGLESv2 -lGLESv1_CM 
